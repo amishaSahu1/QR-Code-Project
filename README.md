@@ -1,2 +1,2 @@
 # QR-Code-Project
- QR Code Generator
+ QR Code Generator using nodejs
